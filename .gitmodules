@@ -1,0 +1,3 @@
+[submodule "filmcow"]
+	path = filmcow
+	url = https://github.com/mcdoolz/filmcow-recorded-sounds.git
